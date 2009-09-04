@@ -1,0 +1,5 @@
+*.beam
+ebin
+._*
+.*.swp
+.DS_Store
